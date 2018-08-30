@@ -1,0 +1,25 @@
+{
+  "name": "margin-padding",
+  "version": "1.0.0",
+  "description": "A neat CSS library for margin and padding",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjzt/margin-padding.git"
+  },
+  "keywords": [
+    "css",
+    "padding",
+    "margin",
+    "css-utility"
+  ],
+  "author": "itsjzt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjzt/margin-padding/issues"
+  },
+  "homepage": "https://github.com/itsjzt/margin-padding#readme"
+}
